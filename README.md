@@ -44,6 +44,8 @@ Make sure your file is named: `Watchlist - Sheet1.csv`
 
 ---
 
+**Note: As of right now, the code doesn't filter between TV Show/Movie, as my current list doesn't have any movie options, but this will come in the future.**
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
